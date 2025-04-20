@@ -26,7 +26,8 @@ fs - File System
 Create or manupulate file in server storage memory.
 
 
-
+import { randomSuperhero } from "superheroes";
+const name = randomSuperhero();
 
 
 
