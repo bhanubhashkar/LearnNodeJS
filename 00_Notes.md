@@ -3,14 +3,7 @@
 [Checkout my Profile](https://github.com/bhanubhashkar)
 
 ## Introduction
-```js
-const fs = require("fs");
 
-fs.writeFile("message.txt", "This is message. Hello from NodeJS!", (err)=>{
-    if(err) throw (err);
-    console.log("The file has been saved"); 
-});
-```
 
 ## Node Modules
 
