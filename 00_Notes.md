@@ -17,10 +17,10 @@ npm init
 npm install packageName
 
 // Use node modules
-if "type": "commonjs", in package.json
+if "type": "commonjs", in package.json then use below method to require node module
 var = require('sillyname');
 
-if "type": "module", in package.json 
+if "type": "module", in package.json then use below method to import node module
 import generateName from "sillyname";
 
 ```
