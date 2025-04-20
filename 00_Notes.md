@@ -7,7 +7,11 @@
 
 ## NPM - Node Package Manager
 
+```js
+npm init
+npm install packageName
 
+```
 
 ## Node Modules
 
