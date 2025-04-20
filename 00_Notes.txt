@@ -30,6 +30,13 @@ import { randomSuperhero } from "superheroes";
 const name = randomSuperhero();
 
 
+if "type": "commonjs", in package.json file then to use any module use below syntax
+var generateName = require('sillyname');
+
+if "type": "module", in package.json file then to use any module use below syntax
+
+import generateName from "sillyname";
+
 
 
 
